@@ -1,5 +1,0 @@
-Hello 
-This is demo trial for Git
-How are you
-I am fine
-How about you?
